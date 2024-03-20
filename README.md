@@ -1,1 +1,1 @@
-# infoproject
+Download the repository containing the code. Open command prompt and git pull the latest changes from github. Open visual studio code and open the code folder in visual studio. Go to the json file and run the first "debug" that you see.
