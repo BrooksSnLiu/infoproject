@@ -1,1 +1,2 @@
 Download the zip containing the code. Open command prompt and git pull the latest changes from github. Open visual studio code and open the code folder in visual studio. Go to the json file and run the first "debug" that you see.
+Apache license is used because it keeps me on guard and requires me to list the modifications. Just the action of that can help me with keeping track and engaging in my work. 
